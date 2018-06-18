@@ -23,7 +23,7 @@ The gradual improvement in accuracy shows the advantage of using pre-trained wor
 
 ## Part - 4 : Recurrent Neural Networks (RNN)
 
-
+Part 4 introduces Recurrent Neural Networks (RNN) for sequential data. Start from a Simple RNN, understand LSTMs, stacked RNNs and finally, bidirectional RNNs for use in various scenarios.
 
 ## References
 

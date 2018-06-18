@@ -13,9 +13,15 @@ Finally, strategies to battle overfitting, a common problem in Deep Learning are
 
 Part 2 takes a cursory look at the basics of computer vision using Keras. The goal is to understand Convolutional 2D, MaxPooling layers and why CNN works well with images. 
 
-The understanding will then be extrapilated to using 1D Covnets for text later.
+The understanding will then be extrapolated to using 1D Covnets for text later.
 
 ## Part - 3 : Deep Learning applied to text
+
+Part 3 looks at preprocessing raw text for neural networks in depth. Start with one hot econding, explore embedding layer in Keras and then re-use pre-trained word embeddings from the Glove corpus. 
+
+The gradual improvement in accuracy shows the advantage of using pre-trained words embeddings for a relatively smaller corpus.
+
+## Part - 4 : Recurrent Neural Networks (RNN)
 
 
 

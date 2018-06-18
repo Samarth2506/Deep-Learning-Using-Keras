@@ -9,7 +9,15 @@ Next, a simple Sequential model is built in Keras for sentiment anaysis of the I
 
 Finally, strategies to battle overfitting, a common problem in Deep Learning are investigated and implemented in Python.
 
-## Part - 2
+## Part - 2 : Deep Learning applied to images
+
+Part 2 takes a cursory look at the basics of computer vision using Keras. The goal is to understand Convolutional 2D, MaxPooling layers and why CNN works well with images. 
+
+The understanding will then be extrapilated to using 1D Covnets for text later.
+
+## Part - 3 : Deep Learning applied to text
+
+
 
 ## References
 
